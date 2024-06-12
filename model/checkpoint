@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\admin\\Desktop\\CVPR\\Food Calorie dectector\\model\\Food_Calorie_dectector-0.001-5conv-basic"
+all_model_checkpoint_paths: "C:\\Users\\admin\\Desktop\\CVPR\\Food Calorie dectector\\model\\Food_Calorie_dectector-0.001-5conv-basic"
